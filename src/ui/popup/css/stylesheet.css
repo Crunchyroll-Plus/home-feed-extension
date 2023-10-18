@@ -5,10 +5,9 @@ body {
 }
 
 .octicon {
-    margin-left: 10px;
+    margin-left: 5px;
     margin-top: 5px;
     filter: invert(100%);
-    /* background-color: white; */
 }
 
 #github {
@@ -16,7 +15,10 @@ body {
     top: -10px;
     color: white;
     background-color: rgb(33, 33, 33);
+    margin-left: 3px;
     padding-top: 2px;
+    border-radius: 5px;
+    border-width: 2px;
     padding-bottom: 5px;
     padding-left: 5px;
     padding-right: 5px;

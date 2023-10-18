@@ -11,6 +11,7 @@
         "persistent": true
     },
     "browser_action": {
+        "default_icon": "src/ui/assets/icon.png",
         "default_popup": "src/ui/popup/index.html"
     },
     "permissions": [
